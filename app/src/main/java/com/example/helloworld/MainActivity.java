@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         colorChanger = findViewById(R.id.btnChangeText);
         clicked=false;
+        // comment
 
         colorChanger.setOnClickListener(new View.OnClickListener() {
             @Override
